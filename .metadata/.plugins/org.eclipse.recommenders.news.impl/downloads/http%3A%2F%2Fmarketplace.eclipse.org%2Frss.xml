@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>https://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Darkest Dark Theme with DevStyle</title>
+    <link>https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/DARKESTdark-theme.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-01-31 12:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-12-30 22:36&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.genuitec.com/tech/darkest-dark/&quot; rel=&quot;nofollow&quot;&gt;Darkest Dark&lt;/a&gt; theme from &lt;a href=&quot;https://www.genuitec.com/products/devstyle/&quot; rel=&quot;nofollow&quot;&gt;DevStyle&lt;/a&gt; - a free plugin providing an enhanced set of experiences for Eclipse. Included:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Darkest Dark theme - #1 in the Marketplace:&lt;/strong&gt;&lt;br /&gt;
+	True dark theme with flat replacement icons&lt;br /&gt;
+	A great experience over Windows, Mac and Linux&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Included with &lt;a href=&quot;https://www.genuitec.com/products/devstyle/&quot; rel=&quot;nofollow&quot;&gt;DevStyle&lt;/a&gt;&lt;/strong&gt;:&lt;br /&gt;
+	New light and dark color themes&lt;br /&gt;
+	All new startup experience for Eclipse&lt;br /&gt;
+	Inline search for text editors&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;​&lt;/strong&gt;&lt;strong&gt;Entirely free to use!  Get DevStyle today.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 31 Jan 2017 17:51:53 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">3274405 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle#comments</comments>
+  </item>
+  <item>
+    <title>Code Time</title>
+    <link>https://marketplace.eclipse.org/content/code-time</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/app-icon-blue.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/xluiz/listings&quot; title=&quot;Xavier Luiz&quot;&gt;Xavier Luiz&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2020-04-11 14:36&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-12-30 14:53&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Software%22&quot;&gt;Software&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;&lt;strong&gt;Code Time&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.software.com/code-time&quot; rel=&quot;nofollow&quot;&gt;Code Time&lt;/a&gt; is an open source plugin for automatic programming metrics and time tracking in Eclipse. Track your productivity, protect valuable code time, and stay in flow.&lt;/p&gt;
+&lt;p&gt;Join our community of over 250,000 developers who use Code Time to reclaim time for focused, uninterrupted coding.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Getting Started&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Go to &lt;strong&gt;Help &amp;gt; Install New Software&lt;/strong&gt;. Then input the following URL and click the &lt;strong&gt;Add...&lt;/strong&gt; button: &lt;em&gt;&lt;a href=&quot;https://eclipse-update-site.s3-us-west-1.amazonaws.com/updatesite/site.xml&quot; rel=&quot;nofollow&quot;&gt;https://eclipse-update-site.s3-us-west-1.amazonaws.com/updatesite/site.xml&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Create an account to keep track of your coding data and unlock access to advanced data visualizations in the Code Time dashboard and web app. You can customize your profile, such as your work hours and office type, for advanced time tracking. You can also connect Outlook or Google Calendar to visualize your code time vs. meetings in a single calendar.&lt;/p&gt;
+&lt;p&gt;Registering an account also lets you connect multiple code editors on multiple devices using the same email account. Your code time data will sync automatically across your devices.&lt;/p&gt;
+&lt;p&gt;Open Code Time in the sidebar by clicking the Code Time timer in the status bar. Click &lt;strong&gt;Sign up&lt;/strong&gt; to create a new account, or click &lt;strong&gt;Log in&lt;/strong&gt; to sign into an existing account.&lt;/p&gt;
+&lt;h3 id=&quot;protect-code-time&quot;&gt;&lt;strong&gt;Protect Code Time&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Flow Mode makes it easy to eliminate distractions, mute notifications, and stay focused when you are in flow.&lt;/p&gt;
+&lt;p&gt;You can quickly toggle the dock position or enter full screen. If you connect a Slack workspace, you can pause notifications, update your profile status, and set your presence to &lt;em&gt;away&lt;/em&gt;. You can customize Flow Mode by clicking the settings option in the &lt;strong&gt;Flow&lt;/strong&gt; section of the Code Time sidebar.&lt;/p&gt;
+&lt;p&gt;Click &lt;em&gt;Enable Flow Mode&lt;/em&gt; to toggle your flow automations. Once you are in Flow Mode, click &lt;em&gt;Pause Flow Mode&lt;/em&gt; to resume receiving notifications and reset your Slack status.&lt;/p&gt;
+&lt;h3 id=&quot;track-development-metrics&quot;&gt;&lt;strong&gt;Track Development Metrics&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Your coding stats can help you understand how you are improving over time.&lt;/p&gt;
+&lt;p&gt;Your status bar shows you in real-time how many hours and minutes you code each day. A rocket will appear if your active code time exceeds your daily average on this day of the week.&lt;/p&gt;
+&lt;p&gt;To see an overview of your coding activity and project metrics, open the &lt;strong&gt;Code Time panel&lt;/strong&gt; by clicking on the Code Time timer in your status bar. Click &lt;strong&gt;Dashboard&lt;/strong&gt; to open your personalized Code Time dashboard in a new editor tab. Your dashboard summarizes your coding data—such as your code time by project, lines of code, and keystrokes—today, yesterday, last week, and over the last 90 days.&lt;/p&gt;
+&lt;p&gt;Your &lt;em&gt;time in editor&lt;/em&gt; is the total time you have spent in your editor today. Your &lt;em&gt;active code time&lt;/em&gt; is the time you spend actively writing and editing code in your editor or IDE. It captures periods of intense focus and flow. Each metric shows how you compare today to your personal averages. Each average is calculated by day of week over the last 90 days (e.g. a Friday average is an average of all previous Fridays).&lt;/p&gt;
+&lt;h3 id=&quot;explore-data-visualizations&quot;&gt;&lt;strong&gt;Explore Data Visualizations&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Click &lt;strong&gt;More data at software.com&lt;/strong&gt; in the Code Time sidebar or visit &lt;a href=&quot;https://app.software.com&quot; rel=&quot;nofollow&quot;&gt;app.software.com&lt;/a&gt; to see more advanced data visualizations. You will need to create a free Software account to use the web app. In the Code Time dashboard, you will be able to track:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Active code time.&lt;/strong&gt; Visualize your daily active code time. See productivity trends compared to weekly and monthly averages. See how you stack up against the Software community of over 150,000 developers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Top projects.&lt;/strong&gt; See how much time you spend per project per week. Get a breakdown of your top projects right in your dashboard.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Work-life balance.&lt;/strong&gt; Connect your Google or Outlook Calendar to visualize meeting time versus code time. See how much coding happens during work hours versus nights and weekends so you can find ways to improve your work-life balance.&lt;/p&gt;
+&lt;h3 id=&quot;invite-your-team&quot;&gt;&lt;strong&gt;Invite Your Team&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;With Teams, you can defend code time, see the impact of meetings, and improve work-life balance across your entire team.&lt;/p&gt;
+&lt;p&gt;Remember, your data is for you, no one else. Your team data is for your team. When you create a team, you will only see aggregated and anonymized summary data at the team level—available to everyone on that team. In addition, to protect individual privacy, the minimum team size is five members.&lt;/p&gt;
+&lt;p&gt;To create a team, visit the &lt;a href=&quot;https://app.software.com/team-dashboard&quot; rel=&quot;nofollow&quot;&gt;team dashboard&lt;/a&gt; in the web app to get started. It&#039;s free to create a team, but you can upgrade to a premium plan to unlock additional features.&lt;/p&gt;
+&lt;h3 id=&quot;it-s-safe-secure-and-free&quot;&gt;&lt;strong&gt;It’s Safe, Secure, and Free&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;We never access your code:&lt;/strong&gt; We do not process, send, or store your proprietary code. We only provide metrics about programming, and we make it easy to see the data we collect.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Your data is private:&lt;/strong&gt; We will never share your individually identifiable data with your boss. When you join a team, we only show aggregated and anonymized data. We encourage you to read &lt;a href=&quot;https://www.software.com/data-privacy&quot; rel=&quot;nofollow&quot;&gt;Data Privacy Matters&lt;/a&gt;, an overview of the steps we take to protect your privacy and security.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Free for you, forever:&lt;/strong&gt; We provide 90 days of data history for free, forever. We provide &lt;a href=&quot;https://www.software.com/pricing&quot; rel=&quot;nofollow&quot;&gt;premium plans&lt;/a&gt; for advanced features and historical data access.&lt;/p&gt;
+&lt;p&gt;Code Time also collects basic usage metrics to help us make informed decisions about our roadmap.&lt;/p&gt;
+&lt;h3 id=&quot;join-the-community&quot;&gt;&lt;strong&gt;Join the Community&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Enjoying Code Time? Let us know how it’s going by tweeting or following us at &lt;a href=&quot;https://twitter.com/software_hq&quot; rel=&quot;nofollow&quot;&gt;@software_hq&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Have any questions? Create an issue in the &lt;a href=&quot;https://github.com/swdotcom/swdc-eclipse-codetime&quot; rel=&quot;nofollow&quot;&gt;Code Time project&lt;/a&gt; on GitHub or send us an email at &lt;a href=&quot;mailto:support@software.com&quot; rel=&quot;nofollow&quot;&gt;support@software.com&lt;/a&gt; and we’ll get back to you as soon as we can.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 11 Apr 2020 18:36:26 +0000</pubDate>
+ <dc:creator>xluiz</dc:creator>
+ <guid isPermaLink="false">5063383 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/code-time#comments</comments>
+  </item>
+  <item>
+    <title>HiJSON Editor</title>
+    <link>https://marketplace.eclipse.org/content/hijson-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/highspeed-json-editor-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2020-09-08 04:26&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-12-30 04:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This plugin is a Highspeed JSON editor - designed to handle bigger files very fast. Especially files were JSON is in one line, which is normally a problem in eclipse: It often freezes /slows down eclipse in other editors when files become a little bit bigger. Please read &lt;a href=&quot;https://github.com/de-jcup/eclipse-hijson-editor/wiki#why-another-json-editor-plugin&quot; rel=&quot;nofollow&quot;&gt; Wiki#why-another-json-editor-plugin &lt;/a&gt; for more details. The first screenshot shows a file having 15MB content. On my developer machine it loads in less than 5 seconds.&lt;/p&gt;
+&lt;p&gt;Maybe other editors are more comfortable, have more features etc. So for normal sized JSON files they are a very good option - but when your IDE freezes on bigger files this editor could be the solution.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Can open bigger JSON files very fast, no matter if one line or pretty printed&lt;/li&gt;
+&lt;li&gt;Fast syntax highlighting, customizable colors, defaults for dark theme&lt;/li&gt;
+&lt;li&gt;One liners will be automatically converted to mulitple lines (this increases eclipse rendering mechanism extreme). The editor is marked as dirty and a information is shown in IDE bottom line when editor is active&lt;/li&gt;
+&lt;li&gt;Outline is
+&lt;ul&gt;&lt;li&gt;turned on per default&lt;br /&gt;&lt;em&gt;(can be disabled in outline view or globally in perferences if there is no need for it)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;splitting big arrays in array groups - so rendering in outline is faster&lt;/li&gt;
+&lt;li&gt;linked with editor per default&lt;br /&gt;&lt;em&gt;(can be disabled in outline view or globally in perferences if there is no need for it)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Additional links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-hijson-editor/issues&quot; rel=&quot;nofollow&quot;&gt;Issue Tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-hijson-editor/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-hijson-editor/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 08 Sep 2020 08:26:59 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">5223289 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/hijson-editor#comments</comments>
+  </item>
+  <item>
+    <title>JUnit Server Result</title>
+    <link>https://marketplace.eclipse.org/content/junit-server-result</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/junit-serverresult-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2020-04-18 12:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-12-30 04:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;In a nutshell:&lt;/h2&gt;
+&lt;p&gt;This plugin is not a replacement for JDT JUnit view, but more an addition for junit server results. It shows server console output and error stream in own console, can also correlate server logs to testsuites per timestamp and contains some other nice features.&lt;/p&gt;
+&lt;p&gt;There is a short &lt;a href=&quot;https://youtu.be/EKfo-ZHl8Hs&quot; rel=&quot;nofollow&quot;&gt;YouTube video&lt;/a&gt; available showing the usage of the plugin&lt;/p&gt;
+&lt;h2&gt;Details:&lt;/h2&gt;
+&lt;p&gt;Eclipse JDT standard JUnit view is very good wheny you are starting your tests inside eclipse. And you are able to import existing junit xml files. But the imported tests do not contain test console output (system out/err) because normally eclipse does run the tests and shows output inside console view.&lt;/p&gt;
+&lt;p&gt;Here comes this plugin into: It shows up  output and error stream data inside own console when double click is done to a view. This will also open origin Junit-View ans how up test results as usual.&lt;/p&gt;
+&lt;p&gt;When you link a log file (e.g. from an integration test server output)  the doubleclick action will also open a special editor and the log timestamp are searched inside - the time period were test has been executed will be truncated and shown in the editor area. So you wil be able to inspect bigger log files faster, because you look only to relevant parts. If time period cannot be resolved it ill be shown on screen, as well when success.&lt;/p&gt;
+&lt;p&gt;The search for truncated parts in special &quot;truncated&quot; result editor is done asynchronous inside a job, so you are able to continoue to work when search takes a longer time (when log files are big).&lt;/p&gt;
+&lt;h2&gt;Links:&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-junit-server-result/issues&quot; rel=&quot;nofollow&quot;&gt;Issue tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-junit-server-result/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-junit-server-result/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLaBYAz_I_8tHStzM1AWhZU4Fs4NzqnoJC&quot; rel=&quot;nofollow&quot;&gt;YouTube Playlist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 18 Apr 2020 16:40:06 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">5073161 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/junit-server-result#comments</comments>
+  </item>
+  <item>
+    <title>SQL Editor</title>
+    <link>https://marketplace.eclipse.org/content/sql-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/sql-editor-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-03-14 03:07&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-12-30 04:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is just a SQL editor. It is NOT a full database tool but just an editor for SQL files.&lt;/p&gt;
+&lt;p&gt;Features.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Syntax highlighting&lt;br /&gt;
+	(Customizable colors, defaults for dark theme)&lt;/li&gt;
+&lt;li&gt;Simple code completion&lt;br /&gt;
+	(wellknown sql keywords and existing words)&lt;/li&gt;
+&lt;li&gt;Outline, Quick outline&lt;br /&gt;
+	(can be turned off in preferences)&lt;/li&gt;
+&lt;li&gt;Block commenting/uncommenting&lt;/li&gt;
+&lt;li&gt;Bracket switching&lt;/li&gt;
+&lt;li&gt;Tooltips for most statements, functions etc. (&amp;gt;80%) containing often also examples and syntax descriptions - just hoover over a highlighted keyword&lt;/li&gt;
+&lt;li&gt;SQL formatter (experimental)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Additional links&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-sql-editor/issues&quot; rel=&quot;nofollow&quot;&gt;Issue Tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-sql-editor/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-sql-editor/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://htmlpreview.github.io/?https://raw.githubusercontent.com/de-jcup/eclipse-sql-editor/master/sqleditor-plugin/html/toc.html&quot; rel=&quot;nofollow&quot;&gt;Internal help (Preview master branch)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Mar 2019 07:07:03 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">4542468 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/sql-editor#comments</comments>
+  </item>
+  <item>
+    <title>EKube</title>
+    <link>https://marketplace.eclipse.org/content/ekube</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/EKube-Logo-Marketplace.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2018-11-26 13:14&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-12-30 04:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;EKube &lt;/strong&gt;is a simple eclipse integration for kubernetes.&lt;/p&gt;
+&lt;p&gt;It shall not be a replacement for &lt;em&gt;kubectl&lt;/em&gt;, but give developers an convient and fast overview about current situations inside their kubernetes clusters.&lt;/p&gt;
+&lt;p&gt;The project is still beta, but makes normally only read only access - so you will not harm your cluster, even when its currently not marked as  production ready.&lt;br /&gt;&lt;em&gt;Exception&lt;/em&gt; is the &quot;Delete&quot; action - this will drop the selected element (But only when you confirm the action).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Fast overview about current situation&lt;br /&gt;
+- Doubleclick on a node in tree shows up YAML file of the corresponding node in kubernetes&lt;br /&gt;
+- Works &quot;out of the box&quot;: Uses kube config of user (but path can be customized)&lt;br /&gt;
+- Generates overview about cluster with &quot;Show plantuml&quot; action in toolbar. Can be viewed with&lt;br /&gt;
+  &lt;a href=&quot;https://marketplace.eclipse.org/content/asciidoctor-editor&quot; rel=&quot;nofollow&quot;&gt;https://marketplace.eclipse.org/content/asciidoctor-editor&lt;/a&gt;&lt;br /&gt;
+- Context actions on a node:&lt;br /&gt;
+   - Secrets can be shown (base64 automatically decrypted)&lt;br /&gt;
+   - At Pods:&lt;br /&gt;
+       - interactive shell (kubectl and bash necessary on client side + sh on POD image)&lt;br /&gt;
+       - interactive log viewer (kubectl and bash necessary on client side)&lt;br /&gt;
+   - Delete element (you need to confirm)&lt;br /&gt;
+  &lt;/p&gt;
+&lt;h2&gt;Additional Links&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/ekube/wiki&quot; rel=&quot;nofollow&quot;&gt;EKube Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/ekube/issues&quot; rel=&quot;nofollow&quot;&gt;Issue tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/ekube/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/ekube&quot; rel=&quot;nofollow&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 26 Nov 2018 18:14:44 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">4389071 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/ekube#comments</comments>
+  </item>
+  <item>
+    <title>Jenkins Editor</title>
+    <link>https://marketplace.eclipse.org/content/jenkins-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/jenkins-editor-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-09-28 18:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-12-30 03:56&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Jenkins editor is just a jenkins build script editor plugin for eclipse&lt;/p&gt;
+&lt;h4&gt;Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Code completion and tooltips (for Jenkins DSL)&lt;/li&gt;
+&lt;li&gt;Syntax highlighting, customizable colors, pre defined default for Dark Theme&lt;/li&gt;
+&lt;li&gt;Groovy syntax validation&lt;/li&gt;
+&lt;li&gt;Validate by Jenkins Linter directly from editor by context menu or toolbar&lt;/li&gt;
+&lt;li&gt;Replay pipeline script and/or fetch latest log from pipeline build by main toolbar actions&lt;/li&gt;
+&lt;li&gt;Own console for log outputs&lt;/li&gt;
+&lt;li&gt;Execute jenkins-cli actions by editor console toolbar action&lt;/li&gt;
+&lt;li&gt;Bracket switching (CTRL + p)&lt;/li&gt;
+&lt;li&gt;Outline + Quick outline (CTRL + o) for declarative pipelines&lt;/li&gt;
+&lt;li&gt;Block commenting (CTRL + 7)&lt;/li&gt;
+&lt;li&gt;Todo Task support&lt;/li&gt;
+&lt;li&gt;File associations to &quot;Jenkinsfile&quot;, &quot;*.jenkins&quot;, &quot;*.jenkinsfile&quot;&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;Where can I get more information about the plugin ?&lt;/h4&gt;
+&lt;p&gt;Please look into&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-jenkins-editor/issues&quot; target=&quot;#blank&quot; rel=&quot;nofollow&quot;&gt;Issue tracker (GitHub)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-jenkins-editor/wiki&quot; target=&quot;#blank&quot; rel=&quot;nofollow&quot;&gt;Wiki (GitHub)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLaBYAz_I_8tEzPHW9fC69uqtnHPK6eiOz&quot; target=&quot;#blank&quot; rel=&quot;nofollow&quot;&gt;Video play list (YouTube)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;What has changed between releases, what&#039;s new ?&lt;/h4&gt;
+&lt;p&gt;Please look into &lt;a href=&quot;https://github.com/de-jcup/eclipse-jenkins-editor/releases&quot; target=&quot;#blank&quot; rel=&quot;nofollow&quot;&gt;Release history (GitHub)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 28 Sep 2017 22:05:33 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">3680354 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/jenkins-editor#comments</comments>
+  </item>
+  <item>
+    <title>Bash Editor</title>
+    <link>https://marketplace.eclipse.org/content/bash-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/bash-editor-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-07-10 06:27&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-12-30 03:53&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This plugin is a bash script editor&lt;/p&gt;
+&lt;p&gt;Features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Integrated bash debugger&lt;/li&gt;
+&lt;li&gt;Run bash scripts from IDE by configurable parameters, environment variables etc.&lt;/li&gt;
+&lt;li&gt;Templates (some defaults + customizable)&lt;/li&gt;
+&lt;li&gt;Tasks (some defaults + customizable)&lt;/li&gt;
+&lt;li&gt;Syntax highlighting&lt;/li&gt;
+&lt;li&gt;Outline
+&lt;ul&gt;&lt;li&gt;Can be sorted alphabetical&lt;/li&gt;
+&lt;li&gt;Can open call hierarchy for a function (context menu)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Quick-Outline (CTRL + o )&lt;/li&gt;
+&lt;li&gt;Open referenced functions by hyperlink (script, project or even workspace scope possible)&lt;/li&gt;
+&lt;li&gt;Bash Call Hierarchy&lt;/li&gt;
+&lt;li&gt;Mark occurrences in editor by double click to
+&lt;ul&gt;&lt;li&gt;Variables&lt;/li&gt;
+&lt;li&gt;Functions&lt;/li&gt;
+&lt;li&gt;Feature can be toggled at toolbar (&quot;Toggle Mark Occurrences (ALT+SHIFT+O)&quot;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Validation&lt;/li&gt;
+&lt;li&gt;Simple code completion (keywords + existing words)&lt;/li&gt;
+&lt;li&gt;Colors can be customized. Also additional defaults for dark theme exists.&lt;/li&gt;
+&lt;li&gt;Bracket switching + highlighting&lt;/li&gt;
+&lt;li&gt;Block commenting (CTRL+7)&lt;/li&gt;
+&lt;li&gt;Auto bracket closing for []&lt;/li&gt;
+&lt;li&gt;Small&lt;/li&gt;
+&lt;li&gt;Tooltips for keywords (offline description + link to online information)&lt;/li&gt;
+&lt;li&gt;Works on Linux, Windows and Mac out of the box.&lt;/li&gt;
+&lt;li&gt;Save Actions
+&lt;ul&gt;&lt;li&gt;External Tool can be used for auto format on save, default is set to beautysh&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Additional links&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-bash-editor/issues&quot; rel=&quot;nofollow&quot;&gt;Issue Tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLaBYAz_I_8tF7sZVIcUv8zOVe2RMiWn-L&quot; rel=&quot;nofollow&quot;&gt;YouTube Videos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-bash-editor/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-bash-editor/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Jul 2017 10:27:25 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">3536358 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/bash-editor#comments</comments>
+  </item>
+  <item>
+    <title>Batch Editor</title>
+    <link>https://marketplace.eclipse.org/content/batch-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/batch-editor-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-11-23 19:12&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2021-12-30 03:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This plugin is an editor for windows batch files (*.bat, *.cmd)&lt;/p&gt;
+&lt;h4&gt;Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Syntax highlighting&lt;/li&gt;
+&lt;li&gt;Outline&lt;/li&gt;
+&lt;li&gt;Quick-Outline (CTRL + o)&lt;/li&gt;
+&lt;li&gt;Open referenced labels by hyperlink&lt;/li&gt;
+&lt;li&gt;Simple code completion (keywords + existing words)&lt;/li&gt;
+&lt;li&gt;Colors can be customized. Also additional defaults for dark theme exists.&lt;/li&gt;
+&lt;li&gt;Bracket switching + highlighting&lt;/li&gt;
+&lt;li&gt;Block commenting (CTRL+7)&lt;/li&gt;
+&lt;li&gt;Auto bracket closing for []&lt;/li&gt;
+&lt;li&gt;Small (&amp;lt;200 kb)&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;Additional links&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-batch-editor/issues&quot; rel=&quot;nofollow&quot;&gt;Issue Tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-batch-editor/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-batch-editor/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 24 Nov 2017 00:12:18 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">3786618 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/batch-editor#comments</comments>
+  </item>
+  <item>
+    <title>Appium Studio for Eclipse</title>
+    <link>https://marketplace.eclipse.org/content/appium-studio-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/appium%20studio%20for%20eclipse%20logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/rzamir/listings&quot; title=&quot;ruth zamir&quot;&gt;ruth zamir&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-01-18 02:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2021-12-29 05:26&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Experitest%22&quot;&gt;Experitest&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Easily develop, execute, analyze and debug your tests on remote physical devices&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;End-to-end mobile test automation from Eclipse&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Perform test development, automation project development, and test execution on remote devices in the Digital Device Lab with a single tool with rich views and editors fully embedded in Eclipse for digital test automation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Record or Develop Appium Tests&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open a real remote device from within your IDE. Record your actions - a test is created automatically. Play back for instant test validation, edit and further develop the test and Export code in the language and framework of your choice. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Immediate visual feedback&lt;/strong&gt;&lt;br /&gt;
+Easily create robust and maintainable tests with a dynamic device reflection that provides immediate visual feedback on all actions. Project development is further streamlined with code snippets and automatically generated Eclipse framework assets such as properties &amp;amp; configuration files.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Powerful object identification&lt;/strong&gt;&lt;br /&gt;
+Enjoy powerful object identification and management, that identify objects by their native/web properties, including image/OCR and customized UI. Write scripts with drag and drop script editor.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Create stable automation&lt;/strong&gt;&lt;br /&gt;
+Leverage pre-configured Eclipse project framework assets for mobile including code snippets, properties &amp;amp; configuration files to reduce errors and easily create stable projects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maximize your test coverage rates&lt;/strong&gt;&lt;br /&gt;
+Achieve high coverage rates by testing outside of your app (SMS, network, settings, Facebook) and 3rd party integrations for complex use cases such as code scanning or fingerprint authentication. Guaranteed rapid version and beta support.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seamlessly integrate with any testing &amp;amp; CI environment&lt;/strong&gt;&lt;br /&gt;
+Create Appium and Selenium test automation, and integrate with any Eclipse plug-in such as Python or Ruby. Integrate with any continuous integration environment to trigger continuous testing as part of the CI process.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parallel test execution&lt;/strong&gt;&lt;br /&gt;
+Intelligent grid execution management allows you to see executions in the real-time view of all executions. Dynamically schedule tests, executions, and distribution. Run multiple CI projects in parallel (multiple applications).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Appium Studio for Eclipse&lt;/strong&gt; allows you to develop and execute tests on remote devices located in the &lt;strong&gt;&lt;a href=&quot;https://experitest.com/mobile-cloud-testing/seetestcloud-online/?utm_source=Eclipse_marketplace&quot; rel=&quot;nofollow&quot;&gt;SaaS Digital Assurance Lab&lt;/a&gt;.&lt;/strong&gt; The Digital Assurance Lab provides access hundreds of browsers &amp;amp; mobile devices hosted in Experitest data centers, from anywhere at anytime. &lt;a href=&quot;https://goo.gl/MSFcFb&quot; rel=&quot;nofollow&quot;&gt;Register&lt;/a&gt; to the Digital Assurance lab for &lt;a href=&quot;https://goo.gl/MSFcFb&quot; rel=&quot;nofollow&quot;&gt;free&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 18 Jan 2018 07:59:34 +0000</pubDate>
+ <dc:creator>rzamir</dc:creator>
+ <guid isPermaLink="false">3879315 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/appium-studio-eclipse#comments</comments>
+  </item>
+  </channel>
+</rss>

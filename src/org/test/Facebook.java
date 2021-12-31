@@ -1,7 +1,7 @@
 package org.test;
 
 public class Facebook {
-	private void login() {
+	public static void login() {
 System.out.println("Welcome to Facebook");
 	}
 	
